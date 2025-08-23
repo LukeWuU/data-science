@@ -1,0 +1,33 @@
+Objectives
+
+Analyze sales variations across stores.
+
+Assess the impact of holidays on sales performance.
+
+Identify quarterly, monthly, and semester sales patterns.
+
+Build predictive models (e.g., linear regression) for Store 1, testing relationships with CPI, unemployment, and fuel price.
+
+Key Analyses
+
+Store Comparison: Identify top-performing stores and those with high variability.
+
+Quarterly Growth (Q3 2012): Highlight stores with notable growth.
+
+Holiday Impact: Compare holiday vs. non-holiday sales across stores.
+
+Temporal Trends: Visualize monthly and semester sales distributions.
+
+Predictive Modeling: Forecast Store 1 sales and analyze external drivers.
+
+Methods
+
+Tableau visualizations: bar charts, line graphs, heat maps.
+
+Calculated fields for holiday comparisons and growth rates.
+
+Regression models for demand forecasting.
+
+Conclusion
+
+This analysis provides insights into Walmart’s sales trends, the effect of holidays, and the role of economic factors. Results can guide better retail strategies, seasonal planning, and
