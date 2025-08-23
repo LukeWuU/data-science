@@ -1,0 +1,23 @@
+Statistical Analysis of Electronic Device Repairs
+This project analyzes common failure types in electronic device repairs and evaluates whether device type influences repair success rates. The analysis is based on a Kaggle dataset (“Repair Phone Technician”) containing 528 real-world repair records.
+Objectives
+•	Explore frequency of repair issues by device type and problem type.
+•	Assess repair success rates across smartphones, pads, and cell phones.
+•	Test whether device type significantly affects repair outcomes.
+Dataset
+•	Total records: 528
+•	Device types: SMARTPHONE (402), CELL (88), PAD (38)
+•	Repair outcomes: 457 successes, 71 failures
+•	Common problems: LCD issues, charging failures, power issues, touchscreen problems.
+Methods
+•	Descriptive Statistics: Repair counts and success rates by device type.
+•	Frequency Analysis: Most common failure categories.
+•	Chi-Square Test: Tested association between device type and repair success.
+o	χ² = 4.3144, df = 2
+o	p-value = 0.1155 > 0.05 → Fail to reject H₀
+Key Findings
+•	PAD and CELL devices had slightly higher success rates (~92%) than SMARTPHONES (~85%).
+•	However, differences were not statistically significant.
+•	Repair success is not strongly dependent on device type.
+Conclusion
+The analysis concludes that device type does not significantly influence repair outcomes. Improvement efforts in repair reliability should focus on processes and technician training, rather than tailoring strategies by device category.
