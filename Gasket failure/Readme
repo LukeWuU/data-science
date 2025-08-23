@@ -1,0 +1,34 @@
+Gasket Failure Reliability Analysis
+This project investigates gasket failures in industrial equipment, focusing on reliability analysis and preventive maintenance strategies. The case highlights how gasket failures can cause significant production losses (30–70%) depending on the failure location.
+Objectives
+•	Analyze gasket failure data and document assumptions.
+•	Apply reliability analysis methods (e.g., Why-Why Analysis, FTA).
+•	Propose actions to improve gasket reliability.
+•	Recommend proactive and preventive maintenance practices.
+•	Outline a vision, goals, and implementation timeline for long-term reliability improvements.
+Dataset
+Failure records include dates, failure modes, and causes such as:
+•	Contamination / Foreign Particles
+•	Wear and Fatigue
+•	Out-of-Spec Gaskets
+•	External Corrosion
+•	Defective Components
+Methods & Tools
+•	ReliaSoft Weibull++: Performed reliability analysis, model fitting, and failure distribution evaluation.
+•	Excel: Used for failure data organization, statistical calculations, and visual summaries.
+•	Reliability Modeling: Weibull analysis, FTA (Fault Tree Analysis), and comparative failure rate studies.
+Key Findings
+•	Frequent failures linked to contamination, corrosion, and out-of-spec gaskets.
+•	Current “replace on failure” culture leads to avoidable production losses.
+•	Predictable wear/fatigue patterns suggest benefits from preventive intervals.
+Recommendations
+•	Standardize gasket procurement with strict quality checks.
+•	Implement preventive replacement intervals based on Weibull analysis.
+•	Use data-driven decision-making for maintenance scheduling (ReliaSoft + Excel).
+•	Introduce proactive monitoring techniques and staff training.
+•	Adopt ISO 14224 framework for consistent failure classification.
+Expected Outcomes
+By leveraging ReliaSoft and Excel analysis, this project aims to:
+•	Reduce production losses caused by gasket failures.
+•	Improve equipment reliability and maintenance efficiency.
+•	Provide a structured roadmap for proactive reliability management.
